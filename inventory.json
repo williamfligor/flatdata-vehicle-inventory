@@ -16,8 +16,8 @@
     "total_msrp": "36488.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Preferred Owner's Portfolio, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spray-On Bedliner[installed_msrp], Heated Power Outside Tow Mirrors, 50 State Emissions",
-    "created_at": "2022-02-11 11:26:25"
+    "packages": "Spray-On Bedliner[installed_msrp], Preferred Owner's Portfolio, 50 State Emissions, Heated Power Outside Tow Mirrors, All-Weather Floor Liners & Door Sill Protectors[installed_msrp]",
+    "created_at": "2022-02-12 11:25:29"
   },
   {
     "dealer": "29062",
@@ -36,8 +36,8 @@
     "total_msrp": "49515.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package [installed_msrp], Mudguards [installed_msrp], Door Edge Guards [installed_msrp], Dual Power Port/Quick Charge Cable Package [installed_msrp], Alloy Wheel Locks  [installed_msrp], Preferred Owner's Portfolio, Roof Rack Cross Bars [installed_msrp], Limited Grade, Extra Cost Color, High Performance LED Fog Lights (Black) [parts_only_msrp], 50 State Emissions, Keep It Wild Savings [keep_it_wild_21], Ball Mount  [installed_msrp]",
-    "created_at": "2022-02-11 11:26:31"
+    "packages": "Mudguards [installed_msrp], Extra Cost Color, Preferred Owner's Portfolio, Alloy Wheel Locks  [installed_msrp], Ball Mount  [installed_msrp], Roof Rack Cross Bars [installed_msrp], All-Weather Floor Liners & Cargo Tray Package [installed_msrp], Keep It Wild Savings [keep_it_wild_21], High Performance LED Fog Lights (Black) [parts_only_msrp], Door Edge Guards [installed_msrp], Limited Grade, Dual Power Port/Quick Charge Cable Package [installed_msrp], 50 State Emissions",
+    "created_at": "2022-02-12 11:25:38"
   },
   {
     "dealer": "37083",
@@ -56,8 +56,28 @@
     "total_msrp": "49258.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Door Edge Guards [installed_msrp], Limited Premium Package, Alloy Wheel Locks[installed_msrp], Spray-On Bedliner[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], TRD Off-Road Package (Limited Grade) [off_roading_generic], 50 State Emissions, Preferred Owner's Portfolio",
-    "created_at": "2022-02-11 11:26:35"
+    "packages": "TRD Off-Road Package (Limited Grade) [off_roading_generic], Door Edge Guards [installed_msrp], Preferred Owner's Portfolio, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Limited Premium Package, 50 State Emissions, Alloy Wheel Locks[installed_msrp], Spray-On Bedliner[installed_msrp]",
+    "created_at": "2022-02-12 11:25:42"
+  },
+  {
+    "dealer": "37188",
+    "vin": "5TFDY5F1XMX049386",
+    "year": "2021",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "5.7L V8 Engine",
+    "transmission": "6-Speed automatic transmission",
+    "drivetrain": "4WD",
+    "cab": "CrewMax",
+    "bed": "5.5-ft. Short Bed",
+    "color": "Super White",
+    "interior": "Black Fabric",
+    "base_msrp": "41470",
+    "total_msrp": "48884.0",
+    "availability_date": null,
+    "total_packages": 8,
+    "packages": "Tailgate Insert Badge - Black[installed_msrp], TRD Off-Road Package (SR5 Grade) [off_roading_generic], Door Edge Guards [installed_msrp], Preferred Owner's Portfolio, Convenience Package, 50 State Emissions, SR5 Upgrade Package, Brushed Stainless Steel Stepboards[installed_msrp]",
+    "created_at": "2022-02-12 11:25:50"
   },
   {
     "dealer": "29075",
@@ -76,8 +96,8 @@
     "total_msrp": "39438.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Door Edge Guards [installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Deck rail system with four adjustable tie-down cleats, SR5 Upgrade Package, SR5 Package, Spray-On Bedliner[installed_msrp], 50 State Emissions, Audio Plus",
-    "created_at": "2022-02-11 11:26:41"
+    "packages": "SR5 Package, 50 State Emissions, Deck rail system with four adjustable tie-down cleats, SR5 Upgrade Package, Door Edge Guards [installed_msrp], Audio Plus, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spray-On Bedliner[installed_msrp]",
+    "created_at": "2022-02-12 11:25:51"
   },
   {
     "dealer": "29108",
@@ -96,8 +116,8 @@
     "total_msrp": "48134.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Remote Tailgate Lock[installed_msrp], Deck rail system with four adjustable tie-down cleats, Tube Steps - Black [installed_msrp], Door Edge Guards [installed_msrp], Trail Special Edition, SR5 Upgrade Package, Door Sill Protectors[installed_msrp], 50 State Emissions",
-    "created_at": "2022-02-11 11:26:42"
+    "packages": "Trail Special Edition, Door Sill Protectors[installed_msrp], Deck rail system with four adjustable tie-down cleats, Door Edge Guards [installed_msrp], Tube Steps - Black [installed_msrp], Remote Tailgate Lock[installed_msrp], 50 State Emissions, SR5 Upgrade Package",
+    "created_at": "2022-02-12 11:25:51"
   },
   {
     "dealer": "29090",
@@ -116,8 +136,8 @@
     "total_msrp": "39338.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Deck rail system with four adjustable tie-down cleats, Door Edge Guards [installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Upgrade Package, Spray-On Bedliner[installed_msrp], Audio Plus, SR5 Package, 50 State Emissions",
-    "created_at": "2022-02-11 11:26:43"
+    "packages": "Audio Plus, SR5 Upgrade Package, Door Edge Guards [installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spray-On Bedliner[installed_msrp], Deck rail system with four adjustable tie-down cleats, 50 State Emissions, SR5 Package",
+    "created_at": "2022-02-12 11:25:54"
   },
   {
     "dealer": "29059",
@@ -136,8 +156,8 @@
     "total_msrp": "50373.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Tube Steps - Black [installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spray-On Bedliner[installed_msrp], Nightshade Special Edition, Limited Premium Package, 50 State Emissions",
-    "created_at": "2022-02-11 11:26:46"
+    "packages": "50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Tube Steps - Black [installed_msrp], Limited Premium Package, Spray-On Bedliner[installed_msrp], Nightshade Special Edition",
+    "created_at": "2022-02-12 11:25:57"
   },
   {
     "dealer": "31162",
@@ -156,8 +176,8 @@
     "total_msrp": "41918.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Spray-On Bedliner[installed_msrp], Preferred Owner's Portfolio, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, Door Edge Guards [installed_msrp], SR5 Upgrade Package",
-    "created_at": "2022-02-11 11:26:48"
+    "packages": "50 State Emissions, Spray-On Bedliner[installed_msrp], Door Edge Guards [installed_msrp], SR5 Upgrade Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Preferred Owner's Portfolio",
+    "created_at": "2022-02-12 11:25:58"
   },
   {
     "dealer": "29037",
@@ -176,8 +196,8 @@
     "total_msrp": "48398.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Alloy Wheel Locks  [installed_msrp], Mudguards [installed_msrp], Limited Grade, All-Weather Floor Liners & Cargo Tray Package [installed_msrp], 50 State Emissions, Keep It Wild Savings [keep_it_wild_21]",
-    "created_at": "2022-02-11 11:26:52"
+    "packages": "Mudguards [installed_msrp], All-Weather Floor Liners & Cargo Tray Package [installed_msrp], Limited Grade, Alloy Wheel Locks  [installed_msrp], 50 State Emissions, Keep It Wild Savings [keep_it_wild_21]",
+    "created_at": "2022-02-12 11:26:04"
   },
   {
     "dealer": "29037",
@@ -196,8 +216,8 @@
     "total_msrp": "49925.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Limited Grade, Keep It Wild Savings [keep_it_wild_21], Door Edge Guards [installed_msrp], Mudguards [installed_msrp], Alloy Wheel Locks  [installed_msrp], Cargo Cover [installed_msrp], Ball Mount  [installed_msrp], 50 State Emissions, Wilderness Package [installed_msrp], Running Board - Chrome Detail [installed_msrp], Extra Cost Color",
-    "created_at": "2022-02-11 11:26:52"
+    "packages": "50 State Emissions, Mudguards [installed_msrp], Ball Mount  [installed_msrp], Alloy Wheel Locks  [installed_msrp], Cargo Cover [installed_msrp], Keep It Wild Savings [keep_it_wild_21], Door Edge Guards [installed_msrp], Limited Grade, Wilderness Package [installed_msrp], Extra Cost Color, Running Board - Chrome Detail [installed_msrp]",
+    "created_at": "2022-02-12 11:26:04"
   },
   {
     "dealer": "29037",
@@ -216,8 +236,8 @@
     "total_msrp": "53853.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Spray-On Bedliner[installed_msrp], Door Edge Guards [installed_msrp], Tonneau Cover[installed_msrp], Power tilt/slide moonroof with sliding sunshade, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], TRD Off-Road Package (Limited Grade) [off_roading_generic], Limited Premium Package, 50 State Emissions, Running Boards",
-    "created_at": "2022-02-11 11:26:52"
+    "packages": "Running Boards, TRD Off-Road Package (Limited Grade) [off_roading_generic], Limited Premium Package, Tonneau Cover[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, Power tilt/slide moonroof with sliding sunshade, Door Edge Guards [installed_msrp], Spray-On Bedliner[installed_msrp]",
+    "created_at": "2022-02-12 11:26:04"
   },
   {
     "dealer": "29037",
@@ -236,8 +256,8 @@
     "total_msrp": "57371.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "TRD Off-Road Package (Limited Grade) [off_roading_generic], 50 State Emissions, 1794 Grade Package, TRD Sway Bar - Rear[installed_msrp], TRD Front Skid Plate [installed_msrp], Spray-On Bedliner[installed_msrp], Remote Tailgate Lock[installed_msrp], Running Boards, Center Console Tray[installed_msrp], TRD Performance Dual Exhaust System with Black Chrome Tips (Tailpipe Kit)[installed_msrp]",
-    "created_at": "2022-02-11 11:26:52"
+    "packages": "TRD Front Skid Plate [installed_msrp], Remote Tailgate Lock[installed_msrp], Spray-On Bedliner[installed_msrp], TRD Performance Dual Exhaust System with Black Chrome Tips (Tailpipe Kit)[installed_msrp], TRD Off-Road Package (Limited Grade) [off_roading_generic], Running Boards, 50 State Emissions, TRD Sway Bar - Rear[installed_msrp], 1794 Grade Package, Center Console Tray[installed_msrp]",
+    "created_at": "2022-02-12 11:26:04"
   },
   {
     "dealer": "29037",
@@ -256,8 +276,8 @@
     "total_msrp": "59402.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "TRD Performance Dual Exhaust System with Black Chrome Tips (Tailpipe Kit)[installed_msrp], TRD Sway Bar - Rear[installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions, TRD Front Skid Plate [installed_msrp], 1794 Grade Package, Door Edge Guards [installed_msrp], Running Boards, TRD Off-Road Package (Limited Grade) [off_roading_generic], Tonneau Cover[installed_msrp], Power tilt/slide moonroof with sliding sunshade",
-    "created_at": "2022-02-11 11:26:52"
+    "packages": "Door Edge Guards [installed_msrp], TRD Front Skid Plate [installed_msrp], Running Boards, TRD Off-Road Package (Limited Grade) [off_roading_generic], TRD Performance Dual Exhaust System with Black Chrome Tips (Tailpipe Kit)[installed_msrp], TRD Sway Bar - Rear[installed_msrp], 50 State Emissions, Power tilt/slide moonroof with sliding sunshade, Tonneau Cover[installed_msrp], Spray-On Bedliner[installed_msrp], 1794 Grade Package",
+    "created_at": "2022-02-12 11:26:04"
   },
   {
     "dealer": "31161",
@@ -276,8 +296,8 @@
     "total_msrp": "41818.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "SR5 Upgrade Package, Door Edge Guards [installed_msrp], Preferred Owner's Portfolio, Spray-On Bedliner[installed_msrp], 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp]",
-    "created_at": "2022-02-11 11:26:55"
+    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Upgrade Package, Spray-On Bedliner[installed_msrp], Door Edge Guards [installed_msrp], Preferred Owner's Portfolio, 50 State Emissions",
+    "created_at": "2022-02-12 11:26:08"
   },
   {
     "dealer": "31161",
@@ -296,8 +316,8 @@
     "total_msrp": "46368.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Deck rail system with four adjustable tie-down cleats, Preferred Owner's Portfolio, SR5 Upgrade Package, Door Edge Guards [installed_msrp], 18-in. 5-spoke alloy wheels with P275/65R18 tires, Alloy Wheel Locks[installed_msrp], Bed Mat[installed_msrp], Brushed Stainless Steel Stepboards[installed_msrp], 50 State Emissions",
-    "created_at": "2022-02-11 11:26:55"
+    "packages": "Deck rail system with four adjustable tie-down cleats, 50 State Emissions, Preferred Owner's Portfolio, Brushed Stainless Steel Stepboards[installed_msrp], Alloy Wheel Locks[installed_msrp], SR5 Upgrade Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Door Edge Guards [installed_msrp], Bed Mat[installed_msrp], 18-in. 5-spoke alloy wheels with P275/65R18 tires",
+    "created_at": "2022-02-12 11:26:08"
   },
   {
     "dealer": "29114",
@@ -316,8 +336,8 @@
     "total_msrp": "26297.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Utility Package (4-Cyl. Access Cab), Bed Lighting Kit  [installed_msrp], Preferred Owner's Portfolio, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], 50 State Emissions",
-    "created_at": "2022-02-11 11:26:56"
+    "packages": "All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Bed Lighting Kit  [installed_msrp], Utility Package (4-Cyl. Access Cab), Preferred Owner's Portfolio, 50 State Emissions",
+    "created_at": "2022-02-12 11:26:10"
   },
   {
     "dealer": "29095",
@@ -336,8 +356,8 @@
     "total_msrp": "39298.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "50 State Emissions, SR5 Package, SR5 Upgrade Package, Deck rail system with four adjustable tie-down cleats, Audio Plus, Spray-On Bedliner[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp]",
-    "created_at": "2022-02-11 11:26:56"
+    "packages": "SR5 Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Audio Plus, 50 State Emissions, Deck rail system with four adjustable tie-down cleats, SR5 Upgrade Package, Spray-On Bedliner[installed_msrp]",
+    "created_at": "2022-02-12 11:26:11"
   },
   {
     "dealer": "29095",
@@ -356,48 +376,8 @@
     "total_msrp": "45633.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Preferred Owner's Portfolio, Deck rail system with four adjustable tie-down cleats, SR5 Upgrade Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, Bed Mat[installed_msrp], TRD Off-Road Package (SR5 Grade) [off_roading_generic], Audio Plus High",
-    "created_at": "2022-02-11 11:26:56"
-  },
-  {
-    "dealer": "29095",
-    "vin": "5TFHY5F14MX042273",
-    "year": "2021",
-    "vehicle": "tundra",
-    "model": "limited",
-    "enginge": "5.7L V8 Engine",
-    "transmission": "6-Speed automatic transmission",
-    "drivetrain": "4WD",
-    "cab": "CrewMax",
-    "bed": "5.5-ft. Short Bed",
-    "color": "Midnight Black Metallic",
-    "interior": "Black Leather",
-    "base_msrp": "47655",
-    "total_msrp": "51323.0",
-    "availability_date": null,
-    "total_packages": 5,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions, Limited Premium Package, TRD Off-Road Package (Limited Grade) [off_roading_generic]",
-    "created_at": "2022-02-11 11:26:56"
-  },
-  {
-    "dealer": "29095",
-    "vin": "5TFAY5F12MX039521",
-    "year": "2021",
-    "vehicle": "tundra",
-    "model": "1794edition",
-    "enginge": "5.7L V8 Engine",
-    "transmission": "6-Speed automatic transmission",
-    "drivetrain": "4WD",
-    "cab": "CrewMax",
-    "bed": "5.5-ft. Short Bed",
-    "color": "Silver Sky Metallic",
-    "interior": "Premium Brown Leather",
-    "base_msrp": "52295",
-    "total_msrp": "55295.0",
-    "availability_date": null,
-    "total_packages": 5,
-    "packages": "20-in. 6-spoke chrome clad wheel, 50 State Emissions, Power tilt/slide moonroof with sliding sunshade, Running Boards, 1794 Grade Package",
-    "created_at": "2022-02-11 11:26:56"
+    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, SR5 Upgrade Package, TRD Off-Road Package (SR5 Grade) [off_roading_generic], Deck rail system with four adjustable tie-down cleats, Bed Mat[installed_msrp], Audio Plus High, Preferred Owner's Portfolio",
+    "created_at": "2022-02-12 11:26:11"
   },
   {
     "dealer": "29113",
@@ -416,8 +396,8 @@
     "total_msrp": "42931.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Spare Tire Lock[installed_msrp], 18-in. 5-spoke alloy wheels with P275/65R18 tires, Deck rail system with four adjustable tie-down cleats, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Audio Plus, SR5 Package, Black Out Package, Spray-On Bedliner[installed_msrp], Alloy Wheel Locks[installed_msrp], 50 State Emissions",
-    "created_at": "2022-02-11 11:26:57"
+    "packages": "50 State Emissions, Spare Tire Lock[installed_msrp], Deck rail system with four adjustable tie-down cleats, 18-in. 5-spoke alloy wheels with P275/65R18 tires, Spray-On Bedliner[installed_msrp], SR5 Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Alloy Wheel Locks[installed_msrp], Black Out Package, Audio Plus",
+    "created_at": "2022-02-12 11:26:12"
   },
   {
     "dealer": "29113",
@@ -436,8 +416,8 @@
     "total_msrp": "43157.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spray-On Bedliner[installed_msrp], Spare Tire Lock[installed_msrp], Exhaust Tip - Chrome[installed_msrp], Tube Steps - Black [installed_msrp], Deck rail system with four adjustable tie-down cleats, 18-in. 5-spoke alloy wheels with P275/65R18 tires, Preferred Owner's Portfolio, Alloy Wheel Locks[installed_msrp], Audio Plus, SR5 Package, 50 State Emissions",
-    "created_at": "2022-02-11 11:26:57"
+    "packages": "50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Deck rail system with four adjustable tie-down cleats, Spray-On Bedliner[installed_msrp], Exhaust Tip - Chrome[installed_msrp], SR5 Package, 18-in. 5-spoke alloy wheels with P275/65R18 tires, Spare Tire Lock[installed_msrp], Tube Steps - Black [installed_msrp], Alloy Wheel Locks[installed_msrp], Audio Plus, Preferred Owner's Portfolio",
+    "created_at": "2022-02-12 11:26:12"
   },
   {
     "dealer": "29113",
@@ -456,8 +436,8 @@
     "total_msrp": "46817.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "TRD Off-Road Package (SR5 Grade) [off_roading_generic], Spray-On Bedliner[installed_msrp], Deck rail system with four adjustable tie-down cleats, SR5 Upgrade Package, 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Preferred Owner's Portfolio, Audio Plus High, Tube Steps - Black [installed_msrp], Alloy Wheel Locks[installed_msrp], Exhaust Tip - Chrome[installed_msrp], Spare Tire Lock[installed_msrp]",
-    "created_at": "2022-02-11 11:26:57"
+    "packages": "50 State Emissions, Exhaust Tip - Chrome[installed_msrp], Spare Tire Lock[installed_msrp], Alloy Wheel Locks[installed_msrp], TRD Off-Road Package (SR5 Grade) [off_roading_generic], SR5 Upgrade Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Tube Steps - Black [installed_msrp], Deck rail system with four adjustable tie-down cleats, Preferred Owner's Portfolio, Spray-On Bedliner[installed_msrp], Audio Plus High",
+    "created_at": "2022-02-12 11:26:12"
   },
   {
     "dealer": "29100",
@@ -476,8 +456,8 @@
     "total_msrp": "48978.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spray-On Bedliner[installed_msrp], Door Edge Guards [installed_msrp], 50 State Emissions, Limited Premium Package, TRD Off-Road Package (Limited Grade) [off_roading_generic]",
-    "created_at": "2022-02-11 11:27:01"
+    "packages": "TRD Off-Road Package (Limited Grade) [off_roading_generic], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Limited Premium Package, Spray-On Bedliner[installed_msrp], Door Edge Guards [installed_msrp], 50 State Emissions",
+    "created_at": "2022-02-12 11:26:18"
   },
   {
     "dealer": "31179",
@@ -496,8 +476,8 @@
     "total_msrp": "43561.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "18-in. 5-spoke alloy wheels with P275/65R18 tires, SR5 Package, Remote Tailgate Lock[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Deck rail system with four adjustable tie-down cleats, Audio Plus, TRD Performance Dual Exhaust System with Chrome Tips (Tailpipe Kit) [installed_msrp], 50 State Emissions, Tailgate Insert Badge - Black[installed_msrp], Blackout Emblem Overlays [installed_msrp]",
-    "created_at": "2022-02-11 11:27:03"
+    "packages": "SR5 Package, TRD Performance Dual Exhaust System with Chrome Tips (Tailpipe Kit) [installed_msrp], Remote Tailgate Lock[installed_msrp], Audio Plus, 50 State Emissions, Blackout Emblem Overlays [installed_msrp], 18-in. 5-spoke alloy wheels with P275/65R18 tires, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Deck rail system with four adjustable tie-down cleats, Tailgate Insert Badge - Black[installed_msrp]",
+    "created_at": "2022-02-12 11:26:21"
   },
   {
     "dealer": "31172",
@@ -516,8 +496,8 @@
     "total_msrp": "37258.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, SR Work Truck Package, Door Edge Guards [installed_msrp], Spray-On Bedliner[installed_msrp], Brushed Stainless Steel Stepboards[installed_msrp]",
-    "created_at": "2022-02-11 11:27:04"
+    "packages": "Brushed Stainless Steel Stepboards[installed_msrp], 50 State Emissions, Door Edge Guards [installed_msrp], Spray-On Bedliner[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR Work Truck Package",
+    "created_at": "2022-02-12 11:26:21"
   },
   {
     "dealer": "31105",
@@ -536,8 +516,8 @@
     "total_msrp": "37527.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Brushed Stainless Steel Stepboards[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Door Edge Guards [installed_msrp], Spray-On Bedliner[installed_msrp], SR Work Truck Package, 50 State Emissions, Remote Tailgate Lock[installed_msrp]",
-    "created_at": "2022-02-11 11:27:05"
+    "packages": "Remote Tailgate Lock[installed_msrp], Spray-On Bedliner[installed_msrp], Brushed Stainless Steel Stepboards[installed_msrp], Door Edge Guards [installed_msrp], SR Work Truck Package, 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp]",
+    "created_at": "2022-02-12 11:26:23"
   },
   {
     "dealer": "31105",
@@ -556,8 +536,8 @@
     "total_msrp": "40063.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Spray-On Bedliner[installed_msrp], 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Upgrade Package, Audio Plus, Door Edge Guards [installed_msrp], Brushed Stainless Steel Stepboards[installed_msrp], SR5 Package, Deck rail system with four adjustable tie-down cleats",
-    "created_at": "2022-02-11 11:27:05"
+    "packages": "Spray-On Bedliner[installed_msrp], 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Brushed Stainless Steel Stepboards[installed_msrp], Deck rail system with four adjustable tie-down cleats, SR5 Package, Door Edge Guards [installed_msrp], Audio Plus, SR5 Upgrade Package",
+    "created_at": "2022-02-12 11:26:23"
   },
   {
     "dealer": "31171",
@@ -576,8 +556,8 @@
     "total_msrp": "43357.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Audio Plus, SR5 Package, 18-in. 5-spoke alloy wheels with P275/65R18 tires, Cast Aluminum Running Boards [installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions, Deck rail system with four adjustable tie-down cleats, Cargo Net - Exterior[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Preferred Owner's Portfolio",
-    "created_at": "2022-02-11 11:27:06"
+    "packages": "Preferred Owner's Portfolio, Audio Plus, Cast Aluminum Running Boards [installed_msrp], Deck rail system with four adjustable tie-down cleats, 50 State Emissions, Spray-On Bedliner[installed_msrp], SR5 Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Cargo Net - Exterior[installed_msrp], 18-in. 5-spoke alloy wheels with P275/65R18 tires",
+    "created_at": "2022-02-12 11:26:24"
   },
   {
     "dealer": "31115",
@@ -596,8 +576,8 @@
     "total_msrp": "58251.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Center Console Tray[installed_msrp], Power tilt/slide moonroof with sliding sunshade, Tailgate Insert Badge - Chrome[installed_msrp], Remote Tailgate Lock[installed_msrp], 50 State Emissions, 1794 Grade Package, TRD Performance Dual Exhaust System with Chrome Tips (Tailpipe Kit) [installed_msrp], Bed Mat[installed_msrp], Tonneau Cover[installed_msrp], Alloy Wheel Locks[installed_msrp], Running Boards, Preferred Owner's Portfolio",
-    "created_at": "2022-02-11 11:27:14"
+    "packages": "TRD Performance Dual Exhaust System with Chrome Tips (Tailpipe Kit) [installed_msrp], Remote Tailgate Lock[installed_msrp], Alloy Wheel Locks[installed_msrp], Center Console Tray[installed_msrp], Running Boards, Power tilt/slide moonroof with sliding sunshade, 50 State Emissions, Tonneau Cover[installed_msrp], 1794 Grade Package, Preferred Owner's Portfolio, Bed Mat[installed_msrp], Tailgate Insert Badge - Chrome[installed_msrp]",
+    "created_at": "2022-02-12 11:26:35"
   },
   {
     "dealer": "31088",
@@ -616,8 +596,8 @@
     "total_msrp": "55275.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, Power tilt/slide moonroof with sliding sunshade, Tube Steps - Chrome[installed_msrp], Preferred Owner's Portfolio",
-    "created_at": "2022-02-11 11:27:15"
+    "packages": "Preferred Owner's Portfolio, Tube Steps - Chrome[installed_msrp], 50 State Emissions, Power tilt/slide moonroof with sliding sunshade",
+    "created_at": "2022-02-12 11:26:35"
   },
   {
     "dealer": "31124",
@@ -636,8 +616,8 @@
     "total_msrp": "37052.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Spray-On Bedliner[installed_msrp], 50 State Emissions, SR Work Truck Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Preferred Owner's Portfolio, Heated Power Outside Tow Mirrors, Door Edge Guards [installed_msrp], Remote Tailgate Lock[installed_msrp]",
-    "created_at": "2022-02-11 11:27:19"
+    "packages": "Door Edge Guards [installed_msrp], Remote Tailgate Lock[installed_msrp], Heated Power Outside Tow Mirrors, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spray-On Bedliner[installed_msrp], Preferred Owner's Portfolio, 50 State Emissions, SR Work Truck Package",
+    "created_at": "2022-02-12 11:26:40"
   },
   {
     "dealer": "31068",
@@ -656,8 +636,8 @@
     "total_msrp": "41678.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, SR5 Upgrade Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spray-On Bedliner[installed_msrp]",
-    "created_at": "2022-02-11 11:27:20"
+    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, SR5 Upgrade Package, Spray-On Bedliner[installed_msrp]",
+    "created_at": "2022-02-12 11:26:43"
   },
   {
     "dealer": "31160",
@@ -676,8 +656,28 @@
     "total_msrp": "41778.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Upgrade Package, Spray-On Bedliner[installed_msrp], 50 State Emissions",
-    "created_at": "2022-02-11 11:27:21"
+    "packages": "50 State Emissions, Spray-On Bedliner[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Upgrade Package",
+    "created_at": "2022-02-12 11:26:44"
+  },
+  {
+    "dealer": "31160",
+    "vin": "3TMCZ5ANXMM435895",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdoffroad",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Voodoo Blue",
+    "interior": "TRD Off-Road Leather Trim In Black",
+    "base_msrp": "37530",
+    "total_msrp": "45906.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Blackout Emblem Overlays [installed_msrp], Paint Protection Film - Hood, Fenders, Mirror Backs and Door Cups [installed_msrp], Mudguards [installed_msrp], 50 State Emissions, TRD Premium Off-Road Package (Double Cab A/T), Alloy Wheel Locks [installed_msrp], Bed Lighting Kit  [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Drop Ship Indicator, LED Headlights and Fog Lights, Advanced Technology Package",
+    "created_at": "2022-02-12 11:26:44"
   },
   {
     "dealer": "31160",
@@ -696,8 +696,28 @@
     "total_msrp": "46073.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Audio Plus High, Preferred Owner's Portfolio, Spray-On Bedliner[installed_msrp], Deck rail system with four adjustable tie-down cleats, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], TRD Off-Road Package (SR5 Grade) [off_roading_generic], SR5 Upgrade Package, 50 State Emissions",
-    "created_at": "2022-02-11 11:27:21"
+    "packages": "50 State Emissions, Spray-On Bedliner[installed_msrp], SR5 Upgrade Package, TRD Off-Road Package (SR5 Grade) [off_roading_generic], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Deck rail system with four adjustable tie-down cleats, Preferred Owner's Portfolio, Audio Plus High",
+    "created_at": "2022-02-12 11:26:44"
+  },
+  {
+    "dealer": "31160",
+    "vin": "JTEHU5JR2M5941777",
+    "year": "2021",
+    "vehicle": "4runner",
+    "model": "venture",
+    "enginge": "4.0L V6 Engine",
+    "transmission": "5-Speed Automatic Transmission",
+    "drivetrain": "Part-time 4WD",
+    "cab": null,
+    "bed": null,
+    "color": "Magnetic Gray Metallic",
+    "interior": "TRD Off-Road SofTex® [softex] in Black",
+    "base_msrp": "44895",
+    "total_msrp": "49452.0",
+    "availability_date": null,
+    "total_packages": 12,
+    "packages": "Exhaust Tip - Chrome  [installed_msrp], Trail Running Boards[installed_msrp], Overland Option, Paint Protection Film - Hood, Fenders, Mirror Backs and Door Cups  [installed_msrp], Keep It Wild Savings [keep_it_wild_21], Console Safe [installed_msrp], Carpet Cargo Mat [parts_only_msrp], Kinetic Dynamic Suspension System (KDSS), Carpet Floor Mats [parts_only_msrp], 50 State Emissions, Moonroof, Venture Package",
+    "created_at": "2022-02-12 11:26:44"
   },
   {
     "dealer": "31160",
@@ -716,8 +736,8 @@
     "total_msrp": "52409.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Spray-On Bedliner[installed_msrp], Preferred Owner's Portfolio, Power tilt/slide moonroof with sliding sunshade, Door Edge Guards [installed_msrp], 50 State Emissions",
-    "created_at": "2022-02-11 11:27:21"
+    "packages": "Door Edge Guards [installed_msrp], Power tilt/slide moonroof with sliding sunshade, 50 State Emissions, Preferred Owner's Portfolio, Spray-On Bedliner[installed_msrp]",
+    "created_at": "2022-02-12 11:26:44"
   },
   {
     "dealer": "37185",
@@ -736,7 +756,7 @@
     "total_msrp": "36453.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Preferred Owner's Portfolio, 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Door Edge Guards [installed_msrp], SR Work Truck Package, Spray-On Bedliner[installed_msrp], Heated Power Outside Tow Mirrors",
-    "created_at": "2022-02-11 11:27:25"
+    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, Door Edge Guards [installed_msrp], Preferred Owner's Portfolio, SR Work Truck Package, Spray-On Bedliner[installed_msrp], Heated Power Outside Tow Mirrors",
+    "created_at": "2022-02-12 11:26:50"
   }
 ]
