@@ -16,28 +16,8 @@
     "total_msrp": "49515.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "Door Edge Guards [installed_msrp], Dual Power Port/Quick Charge Cable Package [installed_msrp], Limited Grade, Alloy Wheel Locks  [installed_msrp], Keep It Wild Savings [keep_it_wild_21], Ball Mount  [installed_msrp], 50 State Emissions, Extra Cost Color, Roof Rack Cross Bars [installed_msrp], High Performance LED Fog Lights (Black) [parts_only_msrp], Mudguards [installed_msrp], All-Weather Floor Liners & Cargo Tray Package [installed_msrp], Preferred Owner's Portfolio",
-    "created_at": "2022-05-03 11:31:00"
-  },
-  {
-    "dealer": "29037",
-    "vin": "JTEKU5JR4M5957033",
-    "year": "2021",
-    "vehicle": "4runner",
-    "model": "limited",
-    "enginge": "4.0L V6 Engine",
-    "transmission": "5-Speed Automatic Transmission",
-    "drivetrain": "Full-time 4WD",
-    "cab": null,
-    "bed": null,
-    "color": "Classic Silver Metallic",
-    "interior": "Limited Leather in Black",
-    "base_msrp": "47705",
-    "total_msrp": "48398.0",
-    "availability_date": null,
-    "total_packages": 6,
-    "packages": "Limited Grade, Alloy Wheel Locks  [installed_msrp], All-Weather Floor Liners & Cargo Tray Package [installed_msrp], Mudguards [installed_msrp], 50 State Emissions, Keep It Wild Savings [keep_it_wild_21]",
-    "created_at": "2022-05-03 11:31:16"
+    "packages": "50 State Emissions, Limited Grade, High Performance LED Fog Lights (Black) [parts_only_msrp], Extra Cost Color, Preferred Owner's Portfolio, Mudguards [installed_msrp], All-Weather Floor Liners & Cargo Tray Package [installed_msrp], Dual Power Port/Quick Charge Cable Package [installed_msrp], Keep It Wild Savings [keep_it_wild_21], Alloy Wheel Locks  [installed_msrp], Door Edge Guards [installed_msrp], Roof Rack Cross Bars [installed_msrp], Ball Mount  [installed_msrp]",
+    "created_at": "2022-05-04 11:27:55"
   },
   {
     "dealer": "31105",
@@ -56,8 +36,8 @@
     "total_msrp": "40063.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Brushed Stainless Steel Stepboards[installed_msrp], SR5 Package, Door Edge Guards [installed_msrp], Audio Plus, Deck rail system with four adjustable tie-down cleats, Spray-On Bedliner[installed_msrp], 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Upgrade Package",
-    "created_at": "2022-05-03 11:31:26"
+    "packages": "50 State Emissions, Door Edge Guards [installed_msrp], Brushed Stainless Steel Stepboards[installed_msrp], Spray-On Bedliner[installed_msrp], Deck rail system with four adjustable tie-down cleats, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Package, Audio Plus, SR5 Upgrade Package",
+    "created_at": "2022-05-04 11:28:29"
   },
   {
     "dealer": "31105",
@@ -76,8 +56,8 @@
     "total_msrp": "44850.0",
     "availability_date": null,
     "total_packages": 14,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Tube Steps - Black [installed_msrp], 18-in. 5-spoke alloy wheels with P275/65R18 tires, Remote Tailgate Lock[installed_msrp], Alloy Wheel Locks[installed_msrp], SR5 Package, Deck rail system with four adjustable tie-down cleats, Blackout Emblem Overlays [installed_msrp], Audio Plus, TRD Performance Dual Exhaust System with Chrome Tips (Tailpipe Kit) [installed_msrp], 50 State Emissions, Tailgate Insert Badge - Black[installed_msrp], Door Edge Guards [installed_msrp], Spray-On Bedliner[installed_msrp]",
-    "created_at": "2022-05-03 11:31:26"
+    "packages": "50 State Emissions, Tailgate Insert Badge - Black[installed_msrp], Alloy Wheel Locks[installed_msrp], Door Edge Guards [installed_msrp], Tube Steps - Black [installed_msrp], 18-in. 5-spoke alloy wheels with P275/65R18 tires, TRD Performance Dual Exhaust System with Chrome Tips (Tailpipe Kit) [installed_msrp], Audio Plus, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Deck rail system with four adjustable tie-down cleats, Remote Tailgate Lock[installed_msrp], Spray-On Bedliner[installed_msrp], Blackout Emblem Overlays [installed_msrp], SR5 Package",
+    "created_at": "2022-05-04 11:28:29"
   },
   {
     "dealer": "31182",
@@ -96,7 +76,7 @@
     "total_msrp": "42610.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Door Edge Guards [installed_msrp], Convenience Extra Value Package, Audio Plus, 50 State Emissions, 18-in. 5-spoke alloy wheels with P275/65R18 tires, SR5 Package, Preferred Owner's Portfolio",
-    "created_at": "2022-05-03 11:31:42"
+    "packages": "Convenience Extra Value Package, 50 State Emissions, 18-in. 5-spoke alloy wheels with P275/65R18 tires, Door Edge Guards [installed_msrp], SR5 Package, Audio Plus, Preferred Owner's Portfolio",
+    "created_at": "2022-05-04 11:28:50"
   }
 ]
