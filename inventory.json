@@ -16,8 +16,8 @@
     "total_msrp": "49515.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package [installed_msrp], Keep It Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio, Ball Mount  [installed_msrp], Alloy Wheel Locks  [installed_msrp], Limited Grade, High Performance LED Fog Lights (Black) [parts_only_msrp], Mudguards [installed_msrp], Dual Power Port/Quick Charge Cable Package [installed_msrp], 50 State Emissions, Door Edge Guards [installed_msrp], Roof Rack Cross Bars [installed_msrp], Extra Cost Color",
-    "created_at": "2022-05-07 11:29:35"
+    "packages": "Ball Mount  [installed_msrp], High Performance LED Fog Lights (Black) [parts_only_msrp], Door Edge Guards [installed_msrp], All-Weather Floor Liners & Cargo Tray Package [installed_msrp], Alloy Wheel Locks  [installed_msrp], Dual Power Port/Quick Charge Cable Package [installed_msrp], Limited Grade, 50 State Emissions, Preferred Owner's Portfolio, Roof Rack Cross Bars [installed_msrp], Mudguards [installed_msrp], Keep It Wild Savings [keep_it_wild_21], Extra Cost Color",
+    "created_at": "2022-05-08 11:28:47"
   },
   {
     "dealer": "31105",
@@ -36,8 +36,8 @@
     "total_msrp": "40063.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "SR5 Upgrade Package, Door Edge Guards [installed_msrp], 50 State Emissions, SR5 Package, Brushed Stainless Steel Stepboards[installed_msrp], Audio Plus, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spray-On Bedliner[installed_msrp], Deck rail system with four adjustable tie-down cleats",
-    "created_at": "2022-05-07 11:30:18"
+    "packages": "50 State Emissions, SR5 Package, SR5 Upgrade Package, Deck rail system with four adjustable tie-down cleats, Brushed Stainless Steel Stepboards[installed_msrp], Spray-On Bedliner[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Door Edge Guards [installed_msrp], Audio Plus",
+    "created_at": "2022-05-08 11:29:16"
   },
   {
     "dealer": "31105",
@@ -56,8 +56,8 @@
     "total_msrp": "44850.0",
     "availability_date": null,
     "total_packages": 14,
-    "packages": "18-in. 5-spoke alloy wheels with P275/65R18 tires, 50 State Emissions, SR5 Package, Remote Tailgate Lock[installed_msrp], Tube Steps - Black [installed_msrp], TRD Performance Dual Exhaust System with Chrome Tips (Tailpipe Kit) [installed_msrp], Door Edge Guards [installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Deck rail system with four adjustable tie-down cleats, Alloy Wheel Locks[installed_msrp], Blackout Emblem Overlays [installed_msrp], Spray-On Bedliner[installed_msrp], Audio Plus, Tailgate Insert Badge - Black[installed_msrp]",
-    "created_at": "2022-05-07 11:30:18"
+    "packages": "18-in. 5-spoke alloy wheels with P275/65R18 tires, SR5 Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Alloy Wheel Locks[installed_msrp], TRD Performance Dual Exhaust System with Chrome Tips (Tailpipe Kit) [installed_msrp], Blackout Emblem Overlays [installed_msrp], 50 State Emissions, Tailgate Insert Badge - Black[installed_msrp], Spray-On Bedliner[installed_msrp], Remote Tailgate Lock[installed_msrp], Audio Plus, Door Edge Guards [installed_msrp], Tube Steps - Black [installed_msrp], Deck rail system with four adjustable tie-down cleats",
+    "created_at": "2022-05-08 11:29:16"
   },
   {
     "dealer": "31182",
@@ -76,7 +76,7 @@
     "total_msrp": "42610.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Preferred Owner's Portfolio, Convenience Extra Value Package, 18-in. 5-spoke alloy wheels with P275/65R18 tires, 50 State Emissions, SR5 Package, Audio Plus, Door Edge Guards [installed_msrp]",
-    "created_at": "2022-05-07 11:30:46"
+    "packages": "50 State Emissions, Preferred Owner's Portfolio, Audio Plus, Convenience Extra Value Package, SR5 Package, 18-in. 5-spoke alloy wheels with P275/65R18 tires, Door Edge Guards [installed_msrp]",
+    "created_at": "2022-05-08 11:29:34"
   }
 ]
